@@ -116,4 +116,22 @@ h1 {
 
 .head3 {
     font-size: 35px;
+    padding-bottom: 20px;
+}
+
+.section2 {
+    margin: 100px 0 10px 150px;
+}
+
+.border3 {
+    padding-top: 50px;
+}
+
+h1.head4 {
+    font-size: 30px;
+}
+
+.image1 img {
+    width: 65%;
+    margin-left: 70px;
 }
