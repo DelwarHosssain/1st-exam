@@ -138,23 +138,49 @@ h1.head4 {
 
 .head5 {
     text-align: center;
+    padding-top: 60px;
 }
 
 .section3 {
-    margin: 100px 0 10px 150px;
+    margin: 80px 120px 10px 150px
 }
 
 .image2 img {
-    width: 75%;
+    width: 60%;
     margin-left: 70px;
 }
 
-h1.head5 {
-    padding-top: 80px;
+.text-se {
     font-size: 48px;
 }
 
+
+}
+h1.head5 {
+    padding-top: 80px;
+    font-size: 38px;
+}
 .border4 {
     padding-top: 60px;
-    padding-right: 300px;
+    padding-left: 40px;
+}
+.footer-sec {
+    width: 100%;
+    height: 177px;
+    background-color: #0B0D17;
+}
+.footer-head {
+    text-align: center;
+    font-size: 36px;
+    padding-top: 30px;
+}
+.Extra-color1 {
+    color: #FF5959;
+}
+.mission-color {
+    color: #FFFFFF;
+}
+h5 {
+    text-align: center;
+    color: #BCBEC5;
 }
