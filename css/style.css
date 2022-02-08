@@ -12,10 +12,11 @@ h1 {
 .b_color {
     background: #FF5959;
     color: #fff;
-    padding: 7px 20px 7px 20px;
+    padding: 10px 25px 10px 25px;
     border: none;
     margin: 15px 0 15px 0;
-    border-radius: 3px;
+    border-radius: 4px;
+    font-size: 14px;
 }
 
 .Extra-color {
@@ -97,4 +98,22 @@ h1 {
 .p-size {
     font-size: small;
     padding-left: 15px;
+}
+
+.section1 {
+    padding-top: 30px;
+}
+
+.image img {
+    width: 65%;
+    padding-left: 150px;
+}
+
+.border2 {
+    margin-right: 200px;
+    margin-top: 30px;
+}
+
+.head3 {
+    font-size: 35px;
 }
