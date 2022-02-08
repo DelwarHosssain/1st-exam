@@ -36,6 +36,11 @@ h1 {
     padding: 120px;
 }
 
+.half_width1 a {
+    text-decoration: none;
+    color: #fff;
+}
+
 .half_width {
     width: 38%;
     padding-right: 14%;
