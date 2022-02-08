@@ -135,3 +135,26 @@ h1.head4 {
     width: 65%;
     margin-left: 70px;
 }
+
+.head5 {
+    text-align: center;
+}
+
+.section3 {
+    margin: 100px 0 10px 150px;
+}
+
+.image2 img {
+    width: 75%;
+    margin-left: 70px;
+}
+
+h1.head5 {
+    padding-top: 80px;
+    font-size: 48px;
+}
+
+.border4 {
+    padding-top: 60px;
+    padding-right: 300px;
+}
